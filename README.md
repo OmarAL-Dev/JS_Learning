@@ -9,3 +9,4 @@ I am a Business Information Systems (BIS) student passionate about cross-platfor
 * Solve algorithmic challenges.
 
 Always building, always learning.
+
